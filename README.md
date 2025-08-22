@@ -34,9 +34,8 @@ Provide a decision-support dashboard for coffee buyers and Q-graders to:
 ## 📊 Report Pages & What They Show
 
 ### 0) Overview — *Coffee Quality Analysis*
-![Overview](‘https://image2url.com/images/1755840822354-63c4849b-e3a5-4ba7-b9b0-ffa2d8899950.png’)
-Imgsrc:-
- ‘https://image2url.com/images/1755840822354-63c4849b-e3a5-4ba7-b9b0-ffa2d8899950.png’
+![Overview](https://image2url.com/images/1755842078705-49b129de-565c-438d-95d2-74a75ac45c58.png)
+
 
 - KPI Cards: **Avg Total Cups ~83.69**, **Avg Aroma ~7.72**, **Avg Acidity ~7.64**, **Avg Flavor ~7.74** (driven by DAX).
 - **Slicers**: Grade, Processing Method, Country of Origin.
