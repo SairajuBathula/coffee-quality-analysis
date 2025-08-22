@@ -34,7 +34,7 @@ Provide a decision-support dashboard for coffee buyers and Q-graders to:
 ## 📊 Report Pages & What They Show
 
 ### 0) Overview — *Coffee Quality Analysis*
-![Overview](/coffee_quality_assets/00_overview_dashboard.png)
+![Overview](‘https://image2url.com/images/1755840822354-63c4849b-e3a5-4ba7-b9b0-ffa2d8899950.png’)
 Imgsrc:-
  ‘https://image2url.com/images/1755840822354-63c4849b-e3a5-4ba7-b9b0-ffa2d8899950.png’
 
